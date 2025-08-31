@@ -1,0 +1,35 @@
+# from provider's website
+https://ulasimpark.com.tr/
+
+UlaşımPark A.Ş. Kocaeli Büyükşehir Belediyesi iştiraki olarak Eylül 2015’te kurulmuştur.
+
+1 Ağustos 2017 tarihinden itibaren faaliyete başlamış olan Akçaray (tramvay) İşletmesi, Kocaeli halkına 18 adet tramvay ile hizmet vermeye başlamış ve şu anda 23 adet tramvay ile hizmet vermeye devam etmektedir.
+
+Halkımızın ihtiyaç duyduğu kaliteli ve güvenli toplu taşıma hizmetini gerçekleştirebilmek için, 127 hatta 644 adet otobüs ile Türkiye’nin en genç otobüs filosuna sahiptir.
+
+Terminal işletmeciliği hizmetiyle faaliyet alanını genişleten UlaşımPark A.Ş. Türkiye’nin sayılı terminalleri arasında yer alıp ortalama yıllık 3.000.000 kişiyi karşılamaktadır.
+
+Otopark işletmeciliğimiz; 2018 yılı Ocak ayından itibaren terminal açık otoparkı ile hizmet vermeye başlamıştır. Gebze, Metropol, Kadıköy ve Kent Meydanı otoparklarının da  UlaşımPark A.Ş. bünyesine katılmasıyla vatandaşlara hizmet vermeye devam etmektedir.
+
+Kocaeli’nin yarım asırlık hayali olan Kartepe Teleferik Hattı Mart 2024’te UlaşımPark A.Ş. işletmeciliğiyle hizmet vermeye başlamıştır.
+
+# description
+
+transit agency for Kocaeli
+
+# contact
+- bilgi@ulasimpark.com.tr / - / -
+- melekertug@ulasimpark.com.tr / MELEK ERTUĞ YILDIRIM / Bilgi İşlem Müdürü @ ulasimpark.com.tr
+- yavuzfirat@kocaeli.bel.tr / Yavuz Fırat / Industrial Engineer "AKILLI ULAŞIM SİSTEMLERİ" @ kocaeli.bel.tr
+
+# scopes
+- GTFS (bueses,stops,shapes,routes etc.)
+- GTFS-REALTIME
+
+- ROUTE.DB
+- SCHEDULES
+- DRIVER PLANS (?)
+- PASSENGER / DISCOUNT TYPES
+
+- CARD BALANCES / ALIASES / NOS
+- CARD PASSENGER / DISCOUNT TYPES

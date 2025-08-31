@@ -1,0 +1,34 @@
+# from provider's website
+https://www.kentkart.com/
+
+Shaping the future of mobility!
+
+Our Intelligent Transportation Systems make public transport smarter for millions of passengers worldwide.
+
+# description
+kentkart is a smart transit provider for transit agencies.
+they provide utilities like (this list may change depending on the municipality/city/region):
+Vehicle-Tracking-System
+Physical Bus Cards
+Account Based Ticketing
+GTFS management
+Mobile Application
+On-Board-Units for buses
+
+# contact
+- info@kentkart.com / - / -
+- bekir.yesil@kentkart.com.tr / Mustafa Bekir YEŞİL / Regional Project Manager @ kentkart.com
+- mert.yuceer@kentkart.com.tr / Mert Yüceer / Project Engineer @ kentkart.com
+
+
+# scopes
+- GTFS (bueses,stops,shapes,routes etc.)
+- GTFS-REALTIME
+
+- ROUTE.DB
+- SCHEDULES
+- DRIVER PLANS (?)
+- PASSENGER / DISCOUNT TYPES
+
+- CARD BALANCES / ALIASES / NOS
+- CARD PASSENGER / DISCOUNT TYPES
