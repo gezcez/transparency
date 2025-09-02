@@ -1,0 +1,32 @@
+SUBJECT: gezcez.com | ilk iletişimin sağlanması adına email
+BCC: bilgi@ulasimpark.com.tr melekertug@ulasimpark.com.tr yavuzfirat@kocaeli.bel.tr muratsandalci@kocaeli.bel.tr buyuksehir153@kocaeli.bel.tr
+DATE:
+FROM: info@gezcez.com
+
+Merhaba,
+Kocaeli'ye ait genel toplu taşıma verilerine kişisel verileri ihlal etmeyecek şekilde erişmek, bu verileri depolamak ve geliştireceğimiz üçüncü parti web siteler ve mobil uygulama üzerinden kamuya açık şekilde paylaşmak amacıyla yürütmeyi planladığım bir proje kapsamında, gerekli izin ve yetkilerle ilgili olarak hangi kurumla iletişime geçmem gerektiğini öğrenmek isterim.
+
+Projemin ilk aşaması kapsamında erişilmesi ve paylaşılması planlanan verilerin bazıları aşağıdaki başlıkları içermekte:
+
+GTFS Realtime verisinin periyodik olarak çekilmesi, arşivlenmesi ve kamuya açık şekilde paylaşılması
+Güncel tutulan statik GTFS verisinin periyodik olarak çekilmesi, arşivlenmesi ve kamuya açık şekilde paylaşılması
+
+KentKart ile ilgili temel bilgilerin sorgulanması ve uygulama üzerinden paylaşılması:
+- alias_no veya card_no ile bakiye, kullanım geçmişi, indirim/yolcu tipi gibi bilgilerin sorgulanması
+- NFC aracılığıyla fiziksel kart okuma işlemi ve alias_no/card_no elde edilmesi
+
+Otobüslerin topluluk tarafından çekilmiş fotoğraflarının arşivlenmesi ve uygulamalar üzerinden paylaşılması
+Otobüslere ait temel bilgilerin arşivlenerek kamuya açık şekilde paylaşılması
+Otobüslerin geçmişe dönük hat ve konum bilgilerinin arşivlenmesi, türetilmiş veri üretilmesi ve paylaşılması
+KOBİS duraklarına ait canlı verilerin (kullanıma hazır bisiklet sayısı, saatlik ücret vb.) elde edilmesi ve paylaşılması
+
+Bu kapsamda, projemi yasal çerçevede sürdürebilmek ve proje hakkında daha detaylı bilgi vermek adına teknik detayları konuşabileceğimiz ve gerekli izin süreçlerini başlatabileceğimiz yetkili birim veya kişilerle nasıl iletişime geçebileceğim konusunda tarafıma bilgi sağlamanızı rica ederim.
+
+Olabildiğince açık bir geliştirme süreci yürütmek istediğim için bu ve ilerideki email yazışmalar ve detayları, gizli kalması gereken bilgi içermediği sürece, kamuya açık bir şekilde arşivlenip paylaşılacaktır.
+Arşive buradan ulaşabilirsiniz: https://github.com/gezcez/transparency
+
+
+Geri dönüşeri aşağıdaki email adreslerinden birine yapabilirsiniz
+
+bireysel iletişim: contact@phasenull.dev
+proje email: info@gezcez.com
